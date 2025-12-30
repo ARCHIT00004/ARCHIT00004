@@ -29,7 +29,7 @@
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL]((https://www.linkedin.com/in/archit-goyal-a817b5246/))) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/archit-goyal-a817b5246/))  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](architg942@gmail.com)  
 
 # ![Profile Views](https://komarev.com/ghpvc/?username=ARCHIT00004&color=blue)
