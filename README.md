@@ -1,39 +1,70 @@
-# Hi there, I'm Archit Goyal 👋  
+# Hi there, I'm Archit Goyal 👋
 
-💻 *B.Tech CSE (8th Semester)* | *Aspiring Web Developer*  | DSA Learner in C++**  
-
-💻 *About Me*  
-- 🎓 B.Tech CSE (8th Semester)  
-- ☁️ Learning *MERN stack*  
-- 🧠 Improving *Data Structures & Algorithms in C++* (Love Babbar Playlist)  
-- 🚀 Interested in *AI + DevOps automation & scalable infrastructure*  
+💻 **Computer Science Engineer** | **Aspiring Data Engineer** | **SQL & ETL Developer**
 
 ---
 
-### 🛠️ Tech Stack  
+## 👨‍💻 About Me
 
-- *Languages:* C++, SQL, Bash  
-- *Frontend& Backend:* HTML , CSS , JS, React.js
-- *Version Control:* Git & GitHub  
-- *Databases:* MySQL, NoSQL 
-
----
-
-
-
-### 📌 Currently Working On  
-✅ Strengthening *DSA for placements*  
-✅ Building *MERN projects*  
-✅ Gaining deeper *Docker & CI/CD pipeline knowledge*  
+- 🎓 B.Tech in Computer Science & Engineering
+- 📊 Passionate about Data Engineering and Analytics
+- 🗄️ Skilled in SQL, Database Design, and ETL Development
+- 🔄 Building end-to-end Data Warehouse projects using SQL Server and SSIS
+- 📈 Currently expanding my skills in PySpark, Databricks, and Apache Airflow
+- 💡 Always exploring best practices for scalable data pipelines and modern data platforms
 
 ---
 
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/archit-goyal-a817b5246/))  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](architg942@gmail.com)  
+## 🛠️ Tech Stack
 
-# ![Profile Views](https://komarev.com/ghpvc/?username=ARCHIT00004&color=blue)
+### Programming Languages
+- SQL
+- Python
+- C++
 
+### Data Engineering
+- SQL Server
+- SSIS
+- ETL Development
+- Data Warehousing
+- Star Schema
+- Dimensional Modeling
 
+### Databases
+- SQL Server
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Visual Studio Code
+
+### Currently Learning
+- PySpark
+- Databricks
+- Apache Airflow
+- Power BI
 
 ---
+
+## 🚀 Current Focus
+
+✅ Designing Enterprise Data Warehouse Solutions
+
+✅ Building ETL Pipelines using SQL Server & SSIS
+
+✅ Learning Modern Data Engineering Tools
+
+✅ Creating Portfolio Projects for Data Engineering Roles
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/archit-goyal-a817b5246/)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:architg942@gmail.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ARCHIT00004&color=blue)
